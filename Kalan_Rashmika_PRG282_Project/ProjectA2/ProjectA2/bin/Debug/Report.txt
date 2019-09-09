@@ -1,0 +1,16 @@
+Time Of Simulation:	2019/05/07 11:32 AM
+-----------------------------------------------------------------
+JetID:	 C-17A
+Name:	 Globemaster III
+Distance of Shortest Path:	 500000 Km
+Obstacles Encountered: 
+		0 Outposts
+		1 Enemy Camps
+		1 Mountain Range
+		1 Enemy Trench
+		1 Enemy Camp Wall
+-----------------------------------------------------------------
+Time Taken for Jet to reach enemy camp:	10,04 minutes
+Fuel Left:	 193,27L
+Inventory Left:	 2920Kg
+Damage to Aircraft:	 26%
